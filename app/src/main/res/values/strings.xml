@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Filtered Touch</string>
+    <string name="accessibility_app_description">allows filtering of the touches in order to avoid any mismatch</string>
+    <string name="accessibility_app_label">.Filtered Touch</string>
+    <string name="canDrawOverBtn">Can Draw Over Other Apps</string>
+    <string name="enableA11yServiceBtn">Enable Accessibility Service</string>
+    <string name="startBtn">Start</string>
+    <string name="textDescription">Please enable the following services for the Filtered Touch App</string>
+</resources>
