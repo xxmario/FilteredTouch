@@ -5,5 +5,5 @@ The intension is to create an app which allows to persons with hand disabilities
 .. work in progress
 
 ## Bugs
-* It doesn’t send the click when the underlay application contains a RecyclerView or when the Soft Keyboard is shown.
+* It doesn’t send the click when the underlay application contains a ListView or when the Soft Keyboard is shown.
 
